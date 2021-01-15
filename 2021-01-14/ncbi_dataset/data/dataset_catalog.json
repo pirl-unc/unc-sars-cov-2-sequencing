@@ -1,0 +1,17 @@
+{"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "protein.faa",
+      "fileType": "PROTEIN_FASTA"
+    },
+    {
+      "filePath": "data_report.jsonl",
+      "fileType": "DATA_REPORT"
+    },
+    {
+      "filePath": "data_table.tsv",
+      "fileType": "DATA_TABLE"
+    }
+  ]
+}]}

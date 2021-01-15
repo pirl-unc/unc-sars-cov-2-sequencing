@@ -1,0 +1,3 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+1489680	ORF1ab	ORF1a polyprotein;ORF1ab polyprotein	SARS coronavirus Tor2		227984	NC_004718.3:265-21485	+		PROTEIN_CODING					NP_828849.7		7073	ORF1ab polyprotein
+1489680	ORF1ab	ORF1a polyprotein;ORF1ab polyprotein	SARS coronavirus Tor2		227984	NC_004718.3:265-21485	+		PROTEIN_CODING					YP_009944365.1		4382	ORF1a polyprotein
